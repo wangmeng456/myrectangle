@@ -1,0 +1,20 @@
+{
+  "name": "myrectangle",
+  "version": "1.0.0",
+  "description": "矩形计算器",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangmeng456/myrectangle.git"
+  },
+  "keywords": [],
+  "author": "wangmeng456",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangmeng456/myrectangle/issues"
+  },
+  "homepage": "https://github.com/wangmeng456/myrectangle#readme"
+}
